@@ -28,15 +28,15 @@
     <Environment>
         <Variable>
             <Name>WATCH_DIR</Name>
-            <Value>/data</Value>
+            <Value>/data/z/downloads</Value>
         </Variable>
         <Variable>
             <Name>WATCH_POLL_INTERVAL_MS</Name>
-            <Value>120000</Value>
+            <Value>12000</Value>
         </Variable>
         <Variable>
             <Name>JOBS_POLL_INTERVAL_MS</Name>
-            <Value>150000</Value>
+            <Value>15000</Value>
         </Variable>
         <Variable>
             <Name>UMASK</Name>
