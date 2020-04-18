@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
+    <TemplateURL>https://raw.githubusercontent.com/mlaflamm/docker-templates/master/mlaflamme/ffmpeg-batch.xml</TemplateURL>
     <Beta>True</Beta>
     <Category>Tools:</Category>
     <Date>2020-04-17</Date>
@@ -28,15 +29,15 @@
     <Environment>
         <Variable>
             <Name>WATCH_DIR</Name>
-            <Value>/data/z/downloads</Value>
+            <Value>/data</Value>
         </Variable>
         <Variable>
             <Name>WATCH_POLL_INTERVAL_MS</Name>
-            <Value>12000</Value>
+            <Value>120000</Value>
         </Variable>
         <Variable>
             <Name>JOBS_POLL_INTERVAL_MS</Name>
-            <Value>15000</Value>
+            <Value>150000</Value>
         </Variable>
         <Variable>
             <Name>UMASK</Name>
