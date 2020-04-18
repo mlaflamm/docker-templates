@@ -3,7 +3,7 @@
     <TemplateURL>https://raw.githubusercontent.com/mlaflamm/docker-templates/master/mlaflamme/ffmpeg-batch.xml</TemplateURL>
     <Beta>True</Beta>
     <Category>Tools:</Category>
-    <Date>2020-04-17</Date>
+    <Date>2020-04-18</Date>
     <Changes>
         [b]17.APR.2020:[/b]Added[br]
     </Changes>
@@ -64,7 +64,7 @@
             <Mode>rw</Mode>
         </Volume>
     </Data>
-    <WebUI>http://[IP]:[PORT:3000]</WebUI>
+    <WebUI>http://[IP]:[PORT:3000]/jobs</WebUI>
     <Banner></Banner>
     <Icon>https://raw.githubusercontent.com/mlaflamm/docker-templates/master/mlaflamme/images/ffmpeg-icon.png</Icon>
 </Container>
