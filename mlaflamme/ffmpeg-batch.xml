@@ -32,12 +32,12 @@
             <Value>/data</Value>
         </Variable>
         <Variable>
-            <Name>WATCH_POLL_INTERVAL_MS</Name>
-            <Value>120000</Value>
+            <Name>WATCH_POLL_INTERVAL</Name>
+            <Value>2m</Value>
         </Variable>
         <Variable>
-            <Name>JOBS_POLL_INTERVAL_MS</Name>
-            <Value>150000</Value>
+            <Name>JOBS_POLL_INTERVAL</Name>
+            <Value>5m</Value>
         </Variable>
         <Variable>
             <Name>UMASK</Name>
