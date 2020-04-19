@@ -40,6 +40,10 @@
             <Value>5m</Value>
         </Variable>
         <Variable>
+            <Name>JOBS_CLEANUP_MAX_AGE</Name>
+            <Value>5d</Value>
+        </Variable>
+        <Variable>
             <Name>UMASK</Name>
             <Value>000</Value>
         </Variable>
