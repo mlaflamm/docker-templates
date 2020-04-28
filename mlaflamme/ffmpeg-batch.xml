@@ -68,7 +68,7 @@
             <Mode>rw</Mode>
         </Volume>
     </Data>
-    <WebUI>http://[IP]:[PORT:3000]/jobs</WebUI>
+    <WebUI>http://[IP]:[PORT:3000]</WebUI>
     <Banner></Banner>
     <Icon>https://raw.githubusercontent.com/mlaflamm/docker-templates/master/mlaflamme/images/ffmpeg-icon.png</Icon>
 </Container>
